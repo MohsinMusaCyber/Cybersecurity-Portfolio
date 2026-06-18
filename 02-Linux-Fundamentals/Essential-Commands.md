@@ -24,3 +24,31 @@ Cybersecurity professionals use Linux commands every day to:
 - Automate repetitive tasks
 
 A solid understanding of the Linux command line improves both speed and efficiency when working in real-world environments.
+
+---
+
+# Essential Linux Commands
+
+| Command | Purpose | Example |
+|---------|---------|---------|
+| `pwd` | Display the current working directory | `pwd` |
+| `ls` | List files and directories | `ls -la` |
+| `cd` | Change directory | `cd /home` |
+| `mkdir` | Create a new directory | `mkdir Projects` |
+| `touch` | Create a new file | `touch notes.txt` |
+| `cp` | Copy files or directories | `cp file1.txt backup.txt` |
+| `mv` | Move or rename files | `mv old.txt new.txt` |
+| `rm` | Remove files | `rm file.txt` |
+| `cat` | Display file contents | `cat notes.txt` |
+| `nano` | Edit text files | `nano notes.txt` |
+| `find` | Search for files | `find / -name "*.conf"` |
+| `grep` | Search inside files | `grep root /etc/passwd` |
+| `history` | Show previously used commands | `history` |
+
+---
+
+# Practical Exercise
+
+The screenshot below demonstrates some of the Linux commands I executed in my Kali Linux virtual machine.
+
+![Essential Linux Commands](Images/essential-linux-commands.jpg)
