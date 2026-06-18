@@ -51,4 +51,4 @@ A solid understanding of the Linux command line improves both speed and efficien
 
 The screenshot below demonstrates some of the Linux commands I executed in my Kali Linux virtual machine.
 
-![Essential Linux Commands](Images/essential-linux-commands.jpg)
+![Essential Linux Commands](Images/essential-linux-commands.jpg.jpg)
