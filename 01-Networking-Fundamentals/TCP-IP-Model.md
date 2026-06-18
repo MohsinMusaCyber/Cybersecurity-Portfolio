@@ -1,5 +1,5 @@
 # Packet Flow
-
+![TCP/IP Model](diagrams/tcp-ip-model.png)
 ## Overview
 
 Packet flow describes the journey that data takes across a network from a source device to its destination.
