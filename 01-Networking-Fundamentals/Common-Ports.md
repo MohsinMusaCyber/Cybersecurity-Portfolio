@@ -43,5 +43,3 @@ Knowing common ports helps security professionals:
 Learning common ports helps me understand how devices communicate and allows me to recognise legitimate and potentially malicious network traffic.
 
 ---
-
-*Created as part of my Cybersecurity Portfolio.*
