@@ -1,4 +1,5 @@
 # OSI Model
+![OSI Model](Images/osi-model.png)
 
 ## Layer 7 - Application
 Provides network services directly to end users.
