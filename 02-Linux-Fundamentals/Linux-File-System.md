@@ -178,3 +178,9 @@ During security investigations, analysts regularly need to:
 - Analyse compromised systems.
 
 Knowing where important files are stored allows faster incident response and more effective threat hunting.
+
+# Practical Exercise
+
+The following screenshot shows the root directory structure from my Kali Linux virtual machine.
+
+![Linux Root Directories](Images/linux-root-directories.png)
