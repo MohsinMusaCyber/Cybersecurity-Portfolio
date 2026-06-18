@@ -52,3 +52,40 @@ A solid understanding of the Linux command line improves both speed and efficien
 The screenshot below demonstrates some of the Linux commands I executed in my Kali Linux virtual machine.
 
 ![Essential Linux Commands](Images/essential-linux-commands.jpg.jpg)
+
+
+---
+
+# Cybersecurity Use Cases
+
+Linux commands are used daily by cybersecurity professionals during:
+
+- Incident response investigations
+- Log analysis
+- Threat hunting
+- Malware analysis
+- Penetration testing
+- System administration
+- Digital forensics
+
+For example:
+
+- `find` helps locate suspicious files.
+- `grep` searches logs for indicators of compromise.
+- `history` reviews previously executed commands.
+- `ls` and `pwd` help navigate compromised systems safely.
+
+---
+
+# Key Takeaways
+
+- The Linux command line is an essential cybersecurity skill.
+- Mastering basic commands improves speed and efficiency.
+- Many security tools rely on command-line usage.
+- Practical experience is just as important as theoretical knowledge.
+
+---
+
+# Personal Learning Notes
+
+I am building practical Linux skills using Kali Linux. Every command demonstrated in this guide has been tested in my own virtual lab environment to strengthen my hands-on cybersecurity experience.
