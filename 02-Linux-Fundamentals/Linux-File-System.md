@@ -183,4 +183,4 @@ Knowing where important files are stored allows faster incident response and mor
 
 The following screenshot shows the root directory structure from my Kali Linux virtual machine.
 
-![Linux Root Directories](02-Linux-Fundamentals/Images/Linux-root-directories.png.jpg)
+![Linux Root Directories](Images/Linux-root-directories.png.jpg)
