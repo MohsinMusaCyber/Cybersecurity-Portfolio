@@ -1,5 +1,7 @@
 # Users and Permissions
 
+![Users and Permissions Commands](images/User%20and%20permission%20Commands%20Screenshot.jpg)
+
 ## Objective
 
 Learn how Linux manages users, groups and file permissions.
