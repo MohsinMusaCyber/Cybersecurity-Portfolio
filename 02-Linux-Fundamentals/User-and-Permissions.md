@@ -1,6 +1,6 @@
 # Users and Permissions
 
-![Users and Permissions Commands](images/users-and-permissions-commands.jpg)
+![Users and Permissions Commands](images/users-and-permissions-commands.jpg.jpg)
 
 ## Objective
 
