@@ -1,6 +1,6 @@
 # File Ownership, Sudo and Privilege Escalation
 
-![File Ownership and Sudo Commands](Images/file-ownership-sudo.)
+![File Ownership and Sudo Commands](Images/file-ownership-sudo.jpg)
 
 ## Objective
 
