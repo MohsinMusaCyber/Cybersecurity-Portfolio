@@ -227,17 +227,6 @@ Run:
 
 ```bash
 cat /etc/passwd
-```
-
-Take screenshots of:
-
-Current user
-
-Groups
-
-Permissions listing
-
----
 
 ## Skills Demonstrated
 
