@@ -8,6 +8,7 @@
 
 ### System Monitoring (top)
 
+![top command](Images/top-command.jpg)
 
 
 ### Background Jobs
